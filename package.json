@@ -1,6 +1,6 @@
 {
   "name": "@boringcodes/eslint-config-typescript-react",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Boring ESLint Config for TypeScript",
   "homepage": "https://github.com/boringcodes/eslint-config-typescript-react",
   "bugs": "https://github.com/boringcodes/eslint-config-typescript-react/issues",
