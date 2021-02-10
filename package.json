@@ -9,7 +9,7 @@
   "repository": "https://github.com/boringcodes/eslint-config-typescript-react.git",
   "main": "index.js",
   "scripts": {
-    "purge": "rm -rf node_modules",
+    "purge": "rimraf node_modules",
     "format": "prettier --write --ignore-path .gitignore .",
     "format:check": "prettier --check --ignore-path .gitignore .",
     "lint": "eslint --quiet --ignore-path .gitignore .",
@@ -35,6 +35,7 @@
     "husky": "^4.3.8",
     "lint-staged": "^10.5.3",
     "prettier": "^2.2.1",
+    "rimraf": "^3.0.2",
     "standard-version": "^9.1.0",
     "typescript": "^4.1.3"
   },
