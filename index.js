@@ -15,10 +15,7 @@ module.exports = {
     // https://github.com/standard/eslint-config-standard-with-typescript
     'standard-with-typescript',
 
-    // https://github.com/prettier/eslint-config-prettier#example-configuration
+    // https://github.com/prettier/eslint-config-prettier#installation
     'prettier',
-    'prettier/@typescript-eslint',
-    'prettier/react',
-    'prettier/standard',
   ],
 };

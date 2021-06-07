@@ -35,7 +35,6 @@
 - [x] Standard config
 - [x] TypeScript config
 - [x] React config
-- [x] Prettier config (Standard, TypeScript & React conflicts removed)
 
 ## Installation
 
